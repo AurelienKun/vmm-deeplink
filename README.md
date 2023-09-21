@@ -42,10 +42,18 @@ Based on the following route: `Brest` > `Orléans` (no constraint & hatchback)
 Based on the following route: `Cologne` > `Dusseldorf` (no constraint & petrol)
 
 - [Hatchback](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=0&fuelConsump=6.8;5.6;5.6&fuelType=0&fuelCost=1.926)
-- [Compact](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=0&fuelConsump=7.900000:6.600000:7.000000&fuelType=0&fuelCost=1.926)
-- [Family](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=0&fuelConsump=9.000000:7.500000:8.000000&fuelType=0&fuelCost=1.926)
-- [Sedan](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=0&fuelConsump=11.300000:9.400000:11.400000&fuelType=0&fuelCost=1.926)
-- [Luxury](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=0&fuelConsump=15.200000:12.700000:15.400000&fuelType=0&fuelCost=1.926)
+- [Compact](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=1&fuelConsump=7.900000:6.600000:7.000000&fuelType=0&fuelCost=1.926)
+- [Family](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=2&fuelConsump=9.000000:7.500000:8.000000&fuelType=0&fuelCost=1.926)
+- [Sedan](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=3&fuelConsump=11.300000:9.400000:11.400000&fuelType=0&fuelCost=1.926)
+- [Luxury](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=0&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&carCategory=4&fuelConsump=15.200000:12.700000:15.400000&fuelType=0&fuelCost=1.926)
+
+### Other transportation
+
+- [Pedestrian, with avoids but disabled](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=2&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false)
+- [Pedestrian, with no avoid](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=2&distUnit=m)
+- [Bicycle, with avoids but disabled](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=3&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false)
+- [Bicycle, with no avoid](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=3&distUnit=m)
+- [Motorbike](vmm://itinerary_summary/6.960279:50.937531,6.7756691:51.224956?itineraryType=0&vehicleType=4&distUnit=m&avoidExpressWays=false&wCaravan=false&avoidORC=false&avoidCCZ=false&avoidBorders=false&avoidTolls=false&withTraffic=false&currency=EUR&fuelConsump=6.8;5.6;5.6&fuelType=0&fuelCost=1.926)
 
 ## Unit
 
